@@ -40,7 +40,7 @@ Complete the following steps to create a new project:
     ```
 
 #### 6. Code Adjustments:
-  - See in `CsAddPanel.cs` file follow code this project files.
+  - See in `CsAddPanel.cs` file follow code this project files `CsAddPanel.cs`.
 
 #### 7. Use `Build Solution` to build `AddPanel.dll`.
   - File located on local project folder: `C:\Users\[user]\source\repos\AddPanel\AddPanel\bin\Debug\net8.0-windows\`.
