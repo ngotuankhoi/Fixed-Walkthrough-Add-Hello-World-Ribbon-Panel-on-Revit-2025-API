@@ -17,7 +17,7 @@ namespace Walkthrough
 
             // Create a push button to trigger a command and add it to the ribbon panel.
             string thisAssemblyPath = Assembly.GetExecutingAssembly().Location;
-            PushButtonData buttonData = new PushButtonData("cmdHelloWorld",
+            PushButtonData buttonData = new ("cmdHelloWorld",
                 "Hello World", thisAssemblyPath, "Walkthrough.HelloWorld");
 
             PushButton pushButton = ribbonPanel.AddItem(buttonData) as PushButton;
@@ -28,7 +28,7 @@ namespace Walkthrough
 
             // b) large bitmap
             string imagePath = Path.Combine(Path.GetDirectoryName(thisAssemblyPath), "niga-logo-icon.png");
-            BitmapImage largeImage = new BitmapImage(new Uri(imagePath, UriKind.Absolute));
+            BitmapImage largeImage = new (new Uri(imagePath, UriKind.Absolute));
             pushButton.LargeImage = largeImage;
 
             return Result.Succeeded;
