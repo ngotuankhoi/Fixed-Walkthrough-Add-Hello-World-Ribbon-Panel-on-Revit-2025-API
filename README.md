@@ -63,7 +63,7 @@ Complete the following steps to create a new project:
       </RevitAddIns>
     ```
   - Ensure that the path specified in <Assembly> correctly points to project folder DLL. If the path is incorrect, Revit won’t be able to find your add-in.
-  - Ensure the <AddInId> is unique to avoid conflicts with other add-ins.
+  - Ensure the <AddInId> is unique to avoid conflicts with other add-ins. Use `Tool > Create GUID` to create new ID if necessary.
   - Copy and paste `HelloWorldRibbon.addin` in `C:\ProgramData\Autodesk\Revit\Addins\2025\`.
 
 #### 9. Run Revit and see add-in in the `Add-ins` ribbon table.
