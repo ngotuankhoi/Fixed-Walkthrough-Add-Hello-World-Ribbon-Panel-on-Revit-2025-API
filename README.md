@@ -21,7 +21,7 @@ Complete the following steps to create a new project:
   - In the Browse tab, search and install `Microsoft.Windows.Compatibility` and `System.Windows.Extensions`.
 
 #### 5. Modify `.csproj` file:
-  - Open Folder in Visual Studio and pick project folder to see projet .csproj file (AddPanel.csproj).
+  - In Visual Studio, in the Solution Explorer, right click on project title and pick `Edit Project File` to see projet .csproj file (AddPanel.csproj).
   - For ensure it is set up correctly for a class library targeting .NET 8.0 with WPF support. Focus on tag <PropertyGroup>.
     ```
     <Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
@@ -40,7 +40,7 @@ Complete the following steps to create a new project:
     ```
 
 #### 6. Code Adjustments:
-  - See in `CsAddPanel.cs` file follow this project.
+  - See in `CsAddPanel.cs` file follow code this project files.
 
 #### 7. Use `Build Solution` to build `AddPanel.dll`.
   - File located on local project folder: `C:\Users\[user]\source\repos\AddPanel\AddPanel\bin\Debug\net8.0-windows\`.
