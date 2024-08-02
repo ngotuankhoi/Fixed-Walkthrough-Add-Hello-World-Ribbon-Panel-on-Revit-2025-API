@@ -1,0 +1,12 @@
+C:\Users\ngotu\source\repos\AddPanel\AddPanel\bin\Debug\net8.0-windows\AddPanel.deps.json
+C:\Users\ngotu\source\repos\AddPanel\AddPanel\bin\Debug\net8.0-windows\AddPanel.dll
+C:\Users\ngotu\source\repos\AddPanel\AddPanel\bin\Debug\net8.0-windows\AddPanel.pdb
+C:\Users\ngotu\source\repos\AddPanel\AddPanel\obj\Debug\net8.0-windows\AddPanel.csproj.AssemblyReference.cache
+C:\Users\ngotu\source\repos\AddPanel\AddPanel\obj\Debug\net8.0-windows\AddPanel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngotu\source\repos\AddPanel\AddPanel\obj\Debug\net8.0-windows\AddPanel.AssemblyInfoInputs.cache
+C:\Users\ngotu\source\repos\AddPanel\AddPanel\obj\Debug\net8.0-windows\AddPanel.AssemblyInfo.cs
+C:\Users\ngotu\source\repos\AddPanel\AddPanel\obj\Debug\net8.0-windows\AddPanel.csproj.CoreCompileInputs.cache
+C:\Users\ngotu\source\repos\AddPanel\AddPanel\obj\Debug\net8.0-windows\AddPanel.dll
+C:\Users\ngotu\source\repos\AddPanel\AddPanel\obj\Debug\net8.0-windows\refint\AddPanel.dll
+C:\Users\ngotu\source\repos\AddPanel\AddPanel\obj\Debug\net8.0-windows\AddPanel.pdb
+C:\Users\ngotu\source\repos\AddPanel\AddPanel\obj\Debug\net8.0-windows\ref\AddPanel.dll

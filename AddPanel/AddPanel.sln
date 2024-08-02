@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddPanel", "AddPanel\AddPanel.csproj", "{BA0D066C-17EF-4029-9058-07EA3C0BDE5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA0D066C-17EF-4029-9058-07EA3C0BDE5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA0D066C-17EF-4029-9058-07EA3C0BDE5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA0D066C-17EF-4029-9058-07EA3C0BDE5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA0D066C-17EF-4029-9058-07EA3C0BDE5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A50A465-9C25-4D0B-ABC6-E503E1E661F4}
+	EndGlobalSection
+EndGlobal
