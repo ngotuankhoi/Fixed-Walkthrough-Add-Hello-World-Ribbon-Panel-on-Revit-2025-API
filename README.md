@@ -53,10 +53,10 @@ Complete the following steps to create a new project:
     <?xml version="1.0" encoding="utf-8" standalone="no"?>
       <RevitAddIns>
           <AddIn Type="Application">
+              <Name>HelloWorldRibbon</Name>
               <Assembly>C:\Users\[user]\source\repos\AddPanel\AddPanel\bin\Debug\net8.0-windows\AddPanel.dll</Assembly>
               <AddInId>604b1052-f742-4951-8576-c261d1789108</AddInId>
               <FullClassName>Walkthrough.CsAddPanel</FullClassName>
-              <Name>HelloWorldRibbon</Name>
               <VendorId>NAME</VendorId>
               <VendorDescription>Your Company Information</VendorDescription>
           </AddIn>
@@ -66,4 +66,6 @@ Complete the following steps to create a new project:
   - Ensure the <AddInId> is unique to avoid conflicts with other add-ins.
   - Copy and paste `HelloWorldRibbon.addin` in `C:\ProgramData\Autodesk\Revit\Addins\2025\`.
 
-9. Run Revit and see add-in in the Add-in table.
+#### 9. Run Revit and see add-in in the `Add-ins` ribbon table.
+  - Chose `Always Load` when system asked.
+  - Open or create new Revit project and click on the `NewRibbonPanel` name to see final result.
